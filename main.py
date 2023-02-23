@@ -15,3 +15,6 @@ with col2:
     other things
     '''
     st.info(content)
+
+intro = 'Below you can find some apps I built using Python. Please contact me if you like!'
+st.write(intro)
